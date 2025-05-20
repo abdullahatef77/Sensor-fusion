@@ -1,3 +1,3 @@
 # Sensor-fusion
-##notes
+## notes
 First sensor fusion project 
